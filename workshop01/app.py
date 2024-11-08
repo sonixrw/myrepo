@@ -11,7 +11,7 @@ random_texts = [
     "It is pitch dark. You are likely to be eaten by a grue."
 ]
 
-image_url = "/static/images/SuperMario.png"
+image_url = "/static/images/AngryBird.png"
 
 repository_url = "https://github.com/sonixrw/myrepo/workshop01"
 
